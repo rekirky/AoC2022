@@ -7,7 +7,7 @@
 
 Filename conventions used:
 * XXXX-YY-Z-code
-* XXXX-YY-Z-input
+* XXXX-YY-input
 
 XXXX - Year
 YY - day of month

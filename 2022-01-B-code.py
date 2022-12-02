@@ -1,5 +1,4 @@
-filename = "2022-01-A-input.txt"
-
+filename = "2022-01-input.txt"
 with open(filename,'r') as f:
     input = f.read().splitlines()
 
